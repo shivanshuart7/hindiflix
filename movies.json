@@ -1,0 +1,20 @@
+[
+  {
+    "title": "KGF Chapter 1 (Hindi)",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5e/K.G.F_Chapter_1_poster.jpg",
+    "year": 2018,
+    "download": "movies/kgf-hindi.mp4"
+  },
+  {
+    "title": "Pushpa: The Rise (Hindi)",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Pushpa_-_The_Rise_Poster.jpg",
+    "year": 2021,
+    "download": "movies/pushpa-hindi.mp4"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion (Hindi)",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_2_The_Conclusion_poster.jpg",
+    "year": 2017,
+    "download": "movies/baahubali2-hindi.mp4"
+  }
+]
